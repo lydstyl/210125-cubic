@@ -22,7 +22,13 @@
   "name": "210125-cubic",
   "description": "Utilisation de TS, node, jest, eslint et prettier pour tester une petite fonction qui donne la surface des murs d'une maison cubique.",
   "version": "1.0.0",
-  "keywords": ["TS", "node", "jest", "eslint", "prettier"],
+  "keywords": [
+    "TS",
+    "node",
+    "jest",
+    "eslint",
+    "prettier"
+  ],
   "author": "Gabriel Brun",
   "license": "ISC",
   "dependencies": {
