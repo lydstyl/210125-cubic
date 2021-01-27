@@ -45,4 +45,4 @@ export function csv(lines: number, step: number): string {
   return csv
 }
 
-console.log(csv(20, 10))
+console.log(csv(100, 1))
